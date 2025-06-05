@@ -12,4 +12,4 @@ This is my submission for the Practical Machine Learning course project. The goa
 ## View Report
 
 Click here to view the HTML report:  
-👉 https://YOUR_GITHUB_USERNAME.github.io/pml-project/pml-report.html
+👉 https://WulanMargaretta.github.io/pml-project/pml-report.html
