@@ -1,7 +1,7 @@
 
 ---
 title: "Predicting Exercise Manner with Accelerometer Data"
-author: "Your Name"
+author: "Wulan Margaretta"
 output: html_document
 ---
 
